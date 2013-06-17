@@ -13,6 +13,7 @@ class people::shrijeet::apps {
   include sublime_text_2
   include tmux
   include vagrant
+  include intellij
 
   #vim & bundles
   include vim
