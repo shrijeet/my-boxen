@@ -7,7 +7,6 @@ class people::shrijeet::apps {
   include cloudapp
   include colloquy
   include dropbox
-  include eclipse
   include iterm2::stable
   include skype
   include sublime_text_2
